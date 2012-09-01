@@ -1,0 +1,8 @@
+
+config 'service' 'PerfectPrivacy'
+	option 'username' 'TheUsername'
+	option 'password' 'ThePassword'
+	option 'enabled' '1'
+	option 'check_interval' '300'
+	option 'server_name' 'Steinsel'
+
